@@ -15,6 +15,8 @@
 6. [Documentation Guide](#documentation-guide)
 7. [Common Issues & Solutions](#common-issues--solutions)
 
+**💡 TIP**: For detailed explanations with expected outputs, see **[DETAILED_ASSIGNMENT_GUIDE.md](DETAILED_ASSIGNMENT_GUIDE.md)**
+
 ---
 
 ## 📁 Project Overview
@@ -412,6 +414,7 @@ java ProducerConsumer
 | Question | Document to Read |
 |----------|------------------|
 | What does this assignment do? | Assignment's README.md |
+| What output should I expect? | DETAILED_ASSIGNMENT_GUIDE.md |
 | How do I run it? | Assignment's README.md or QUICK_START_GUIDE.md |
 | How does it work technically? | IMPLEMENTATION_NOTES.md or IMPLEMENTATION_GUIDE.md |
 | What are the test results? | ASSIGNMENT_SUMMARY.md |

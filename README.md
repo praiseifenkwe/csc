@@ -14,8 +14,10 @@ This repository contains all 5 completed programming assignments for CSC310, dem
 
 **New to this project?** Read these files in order:
 1. **[TEAM_GUIDE.md](TEAM_GUIDE.md)** ⭐ - Complete guide for team members
-2. **[FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md)** - Visual folder structure
-3. **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - Quick commands reference
+2. **[DETAILED_ASSIGNMENT_GUIDE.md](DETAILED_ASSIGNMENT_GUIDE.md)** ⭐ - Detailed explanation with expected outputs
+3. **[EXPECTED_OUTPUTS.md](EXPECTED_OUTPUTS.md)** - Quick reference for what you should see
+4. **[FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md)** - Visual folder structure
+5. **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - Quick commands reference
 
 ### Assignments Status
 
@@ -90,6 +92,7 @@ csc/
 
 ### 👥 For Team Members (START HERE!)
 - **[TEAM_GUIDE.md](TEAM_GUIDE.md)** - Complete guide for team members
+- **[COMPLETE_ASSIGNMENTS_GUIDE.md](COMPLETE_ASSIGNMENTS_GUIDE.md)** - ⭐ Detailed guide with expected outputs
 - **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)** - Visual folder structure
 - **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - Quick reference
 
