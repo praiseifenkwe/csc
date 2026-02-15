@@ -10,6 +10,17 @@
 
 This repository contains all 5 completed programming assignments for CSC310, demonstrating advanced concepts in concurrent programming, multithreading, and synchronization.
 
+### 📦 FOR SUBMISSION: FINAL DOCUMENTS READY!
+
+**Submission Deadline**: Monday, February 16, 2026  
+**Presentation**: Wednesday, February 18, 2026
+
+**📁 Go to [final/](final/) folder for**:
+- **[FINAL_PROJECT_DOCUMENT.md](final/FINAL_PROJECT_DOCUMENT.md)** - Complete submission document (convert to DOCX)
+- **[PRESENTATION_SLIDES.md](final/PRESENTATION_SLIDES.md)** - Presentation outline
+- **[FINAL_SUBMISSION.md](final/FINAL_SUBMISSION.md)** - Submission checklist
+- **[final/README.md](final/README.md)** - Instructions for using final documents
+
 ### 👥 FOR TEAMMATES: START HERE!
 
 **New to this project?** Read these files in order:
